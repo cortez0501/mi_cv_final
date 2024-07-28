@@ -1,0 +1,88 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 40px;
+    background-color: rgb(241, 242, 246);
+}
+main{
+    background-color: rgb(232, 229, 242);
+    color: #1c1717;
+}
+header{
+    text-align: center;
+    background-color: rgb(244, 206, 225);
+    width: auto;
+    margin: 0px;
+    color: rgb(105, 96, 119);
+}
+
+body{
+    border: 5px solid;
+    border-color: rgb(225, 221, 222);
+}
+    
+img {
+    border-radius: 150px;
+    border-style: solid;
+    }
+
+.contenido
+{
+    float: left;
+    width: 100%;
+    background: #f4f8fc;
+    border-bottom:solid #100f0f;
+    border-top: solid black;
+    border-radius: 10px
+    
+}
+.habilidades{
+        float: left;
+        width: 100%;
+        background: #f4f8fc;
+        border-bottom:solid #100f0f;
+        border-top: solid black;
+        border-radius: 10px
+}
+
+.contacto{
+        float: left;
+        width: 100%;
+        background: #f4f8fc;
+        border-bottom:solid #100f0f;
+        border-top: solid black;
+        border-radius: 10px
+}
+
+.experiencia{
+    float: right;
+    width: 100%;
+    background: #f4f8fc;
+    border-bottom:solid #100f0f;
+    border-top: solid black;
+    border-radius: 10px
+}
+
+.secciones{
+    float: right;
+    width: 100%;
+    background: #f4f8fc;
+    border-bottom:solid #100f0f;
+    border-top: solid black;
+    border-radius: 10px
+}
+
+.skills{
+    float: right;
+    width: 100%;
+    background: #f4f8fc;
+    border-bottom:solid #100f0f;
+    border-top: solid black;
+    border-radius: 10px
+}
+
+h2{
+    color: rgb(6, 6, 88);
+}
+
+
+
